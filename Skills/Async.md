@@ -5,7 +5,7 @@
   - `try..catch`: 🖐️ used
   - Non-blocking: 🖐️ used
   - Async I/O: 🖐️ used
-  - Thread pool 🖐️ used
+  - Thread pool: 🖐️ used
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -37,15 +37,15 @@
   - Goroutine
   - Signal: 🖐️ used
   - Stream: 🖐️ used
-  - Chain of responsibility 🙋 explained
+  - Chain of responsibility: 🙋 explained
   - Middleware: 🙋 explained
   - Locks
 - Async adapters and utils
   - callbackify: 🎓 known
   - promisify: 🖐️ used
   - asyncify
-  - Callbacks compose 🖐️ used
-  - Async compose 🖐️ used
+  - Callbacks compose: 🖐️ used
+  - Async compose: 🖐️ used
 - Async abstractions interfaces
   - EventEmitter: 🙋 explained
   - Observable/Observer: 🙋 explained
@@ -53,7 +53,7 @@
   - Writable: 🖐️ used
   - Transform
   - Async Pool
-  - Async Queue 🖐️ used
+  - Async Queue: 🖐️ used
   - Async Collector
   - Semaphore: 🖐️ used
   - Mutex: 🖐️ used
@@ -66,16 +66,16 @@
   - AbortSignal: 🖐️ used
   - Promise unhandled rejection: 🖐️ used
   - Promise double resolve
-  - Atomics 🎓 known
+  - Atomics: 🎓 known
   - High resolution clock
   - Callback hell: 🙋 explained
   - Promise hell: 🙋 explained
-  - ref() and unref() 🎓 known
+  - ref() and unref(): 🎓 known
   - Error handling in async code: 🖐️ used
-  - Better stack traces with return await 🖐️ used
+  - Better stack traces with return await: 🖐️ used
   - JSON streaming serialization
-  - AsyncLocalStorage 🖐️ used
-  - AsyncResource 🎓 known
+  - AsyncLocalStorage: 🖐️ used
+  - AsyncResource: 🎓 known
 - Techniques
   - Async.js library: 👂 heard
   - RxJS library: 👂 heard

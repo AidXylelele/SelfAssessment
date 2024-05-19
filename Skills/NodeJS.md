@@ -14,7 +14,7 @@
   - CommonJS modules: 🖐️ used
   - ECMAScript modules: 🖐️ used
   - Module `node:module`: 🖐️ used
-  - Caching in CJS and ESM 👂 heard
+  - Caching in CJS and ESM: 👂 heard
   - Modules as singletons: 🖐️ used
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`: 🙋 explained
@@ -37,15 +37,15 @@
   - Web Streams API: 🖐️ used
   - Crypto API: 🖐️ used
   - Password hashing with crypto.scrypt: 🖐️ used
-  - Web Crypto API 🖐️ used
+  - Web Crypto API: 🖐️ used
   - File system API (sync and async): 🖐️ used
   - Copy folder recursively: 🖐️ used
   - Worker threads: 🖐️ used
-  - Performance hooks 👂 heard
+  - Performance hooks: 👂 heard
   - Native fetch and nodejs/undici: 🖐️ used
-  - async_hooks 👂 heard
-  - AsyncLocalStorage 🖐️ used
-  - AsyncResource 🎓 known
+  - async_hooks: 👂 heard
+  - AsyncLocalStorage: 🖐️ used
+  - AsyncResource: 🎓 known
   - Deprecated domain API
   - Node.js single executable: 🎓 known
   - SharedArrayBuffer
@@ -78,7 +78,7 @@
   - REST: 🖐️ used
   - RPC: 🎓 known
   - Routing: 🖐️ used
-  - DoS 👂 heard
+  - DoS: 👂 heard
   - DDoS: 🎓 known
   - XSS: 🖐️ used
   - Path traversal: 🖐️ used
@@ -121,9 +121,9 @@
   - Heap dump
   - Debugging tools: 🖐️ used
   - Flame graph
-  - Memory leaks 👂 heard
-  - Resource leaks 👂 heard
-  - Data race 👂 heard
+  - Memory leaks: 👂 heard
+  - Resource leaks: 👂 heard
+  - Data race: 👂 heard
 - Integrations and bindings
   - Native addons
   - `C` and `C++` addons
@@ -134,10 +134,10 @@
   - NAPI `C` and `C++`
   - NAPI `Rust`
   - NAPI `Zig`
-  - Webassembly `WAT` 👂 heard
-  - Webassembly `C` and `C++` 👂 heard
+  - Webassembly `WAT`: 👂 heard
+  - Webassembly `C` and `C++`: 👂 heard
   - Webassembly `Rust`
   - Webassembly `Zig`
-  - Webassembly `AssemblyScript` 👂 heard
-  - Shared memory 👂 heard
+  - Webassembly `AssemblyScript`: 👂 heard
+  - Shared memory: 👂 heard
   - V8 binary serialization
