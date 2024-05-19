@@ -25,7 +25,7 @@
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition
+  - Class composition 🖐️ used
 - OOP basics
   - Constructor: 🖐️ used
   - Operator `new`: 🖐️ used
@@ -50,13 +50,13 @@
   - The diamond problem
 - GRASP
   - Information expert
-  - Creator
+  - Creator 🖐️ used
   - Controller: 🖐️ used
   - Indirection
   - Low coupling: 🖐️ used
   - High cohesion: 🖐️ used
-  - Protected variations
-  - Pure fabrication
+  - Protected variations 🖐️ used
+  - Pure fabrication 🖐️ used
 - SOLID
   - Single-responsibility principle (SRP): 🙋 explained
   - Open–closed principle (OCP): 🙋 explained
@@ -75,11 +75,11 @@
   - Chain of Responsibility
   - Command: 🖐️ used
   - Iterator: 🖐️ used
-  - State
+  - State 🖐️ used
   - Bridge
-  - Builder: 🎓 known
+  - Builder: 🖐️ used
   - Prototype: 🎓 known
-  - Composite
+  - Composite 🖐️ used
   - Decorator: 🖐️ used
   - Flyweight: 👂 heard
   - Mediator: 👂 heard
