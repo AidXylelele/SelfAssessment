@@ -5,7 +5,7 @@
   - `try..catch`: 🖐️ used
   - Non-blocking: 🖐️ used
   - Async I/O: 🖐️ used
-  - Thread pool
+  - Thread pool 🖐️ used
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -19,8 +19,8 @@
   - Concurrent programming: 👂 heard
   - Parallel programming: 🎓 known
   - Actor Model
-  - Thread: 🎓 known
-  - Process: 🎓 known
+  - Thread: 🖐️ used
+  - Process: 🖐️ used
 - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first: 🖐️ used
@@ -30,52 +30,52 @@
   - Future
   - Deferred: 🎓 known
   - Sync generator: 🎓 known
-  - Async Generator: 🎓 known
-  - Async Iterator: 🎓 known
-  - Event: 🎓 known
+  - Async Generator: 🖐️ used
+  - Async Iterator: 🖐️ used
+  - Event: 🖐️ used
   - Coroutine
   - Goroutine
-  - Signal: 🎓 known
+  - Signal: 🖐️ used
   - Stream: 🖐️ used
-  - Chain of responsibility
+  - Chain of responsibility 🙋 explained
   - Middleware: 🙋 explained
   - Locks
 - Async adapters and utils
   - callbackify: 🎓 known
   - promisify: 🖐️ used
   - asyncify
-  - Callbacks compose
-  - Async compose
+  - Callbacks compose 🖐️ used
+  - Async compose 🖐️ used
 - Async abstractions interfaces
   - EventEmitter: 🙋 explained
-  - Observable/Observer: 🖐️ used
-  - Readable: 🎓 known
-  - Writable: 🎓 known
+  - Observable/Observer: 🙋 explained
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
   - Async Pool
-  - Async Queue
+  - Async Queue 🖐️ used
   - Async Collector
   - Semaphore: 🖐️ used
   - Mutex: 🖐️ used
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
-  - `setImmediate`: 🎓 known
-  - `nextTick`: 🎓 known
-  - AbortController: 🎓 known
-  - AbortSignal: 🎓 known
+  - `setImmediate`: 🖐️ used
+  - `nextTick`: 🖐️ used
+  - AbortController: 🖐️ used
+  - AbortSignal: 🖐️ used
   - Promise unhandled rejection: 🖐️ used
   - Promise double resolve
-  - Atomics
+  - Atomics 🎓 known
   - High resolution clock
   - Callback hell: 🙋 explained
   - Promise hell: 🙋 explained
-  - ref() and unref()
+  - ref() and unref() 🎓 known
   - Error handling in async code: 🖐️ used
-  - Better stack traces with return await
+  - Better stack traces with return await 🖐️ used
   - JSON streaming serialization
-  - AsyncLocalStorage
-  - AsyncResource
+  - AsyncLocalStorage 🖐️ used
+  - AsyncResource 🎓 known
 - Techniques
   - Async.js library: 👂 heard
   - RxJS library: 👂 heard
