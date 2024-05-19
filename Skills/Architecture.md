@@ -17,7 +17,7 @@
   - Code coverage: 🙋 explained
   - Cohesion: 🖐️ used
   - Coupling: 🖐️ used
-  - Cyclomatic complexity
+  - Cyclomatic complexity 🎓 known
   - Reliability: 🎓 known
   - Quality: 🎓 known
   - Availability: 🎓 known
@@ -28,9 +28,9 @@
   - Domain-specific language (DSL): 👂 heard
   - System vs applied code: 🎓 known
   - Multilayer approach: 🖐️ used
-  - Hexagonal architecture: 🎓 known
+  - Hexagonal architecture: 🖐️ used
   - Separation of concerns (SoC): 🖐️ used
-  - Metaprogramming
+  - Metaprogramming 🎓 known
   - Inversion of control (IoC): 🙋 explained
   - Dependency injection (DI): 🙋 explained
   - Clean architecture: 👂 heard
@@ -40,18 +40,18 @@
   - Agent
   - Service locator
   - Message Queue (MQ): 🎓 known
-  - CQRS
-  - Event sourcing
-  - E-R data modeling
+  - CQRS 🖐️ used
+  - Event sourcing 🖐️ used
+  - E-R data modeling 🖐️ used
   - Entity-relationship diagram: 🖐️ used
   - IDEF1X
   - UML: 🖐️ used
   - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
+  - Budget estimation 🎓 known
+  - Distributed systems 🎓 known
   - High-intensive computing
-  - Load balancing: 🎓 known
-  - Gateways: 🎓 known
+  - Load balancing: 🖐️ used
+  - Gateways: 🖐️ used
   - On-premises: 🎓 known
   - IaaS: 🖐️ used
   - PaaS: 🖐️ used
@@ -74,10 +74,10 @@
   - BPMN
   - Low-code: 🖐️ used
   - No-code: 🖐️ used
-  - Metric
+  - Metric 🎓 known
   - Metric abuse
   - ACID: 🎓 known
-  - CAP theorem
+  - CAP theorem 🎓 known
   - Single source of truth (SSOT): 🖐️ used
 - Enterprise architecture
   - Understanding business needs: 🖐️ used
@@ -85,7 +85,7 @@
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope 🎓 known
   - Enterprise service bus
   - Service-oriented architecture: 🎓 known
   - Microservices: 👂 heard
