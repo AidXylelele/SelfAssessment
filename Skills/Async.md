@@ -27,7 +27,7 @@
   - Thenable: 🖐️ used
   - Promise: 🙋 explained
   - Async/await: 🙋 explained
-  - Future 🎓 known
+  - Future: 🎓 known
   - Deferred: 🎓 known
   - Sync generator: 🎓 known
   - Async Generator: 🎓 known
