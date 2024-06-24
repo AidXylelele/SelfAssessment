@@ -8,6 +8,13 @@
   - Event loop microtasks and macrotasks: 🖐️ used
   - Garbage collection: 🎓 known
   - Node.js LTS schedule: 🎓 known
+  - Strong and weak sides of node.js: 🎓 known
+  - Stateful and stateless servers: 🎓 known
+  - Nonblocking I/O and blocking code: 🖐️ used
+  - Event loop phases: 🎓 known
+  - Event loop microtasks and macrotasks: 🖐️ used
+  - Garbage collection: 🎓 known
+  - Node.js LTS schedule: 🎓 known
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time): 🖐️ used
 - Modularity, layers and dependencies u
@@ -19,7 +26,14 @@
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`: 🙋 explained
   - Files `package.json`, `package-lock.json`: 🙋 explained
+  - Dependencies: `npm`, `node_modules`: 🙋 explained
+  - Files `package.json`, `package-lock.json`: 🙋 explained
   - Module-based permissions model
+  - Isolation with modularity: 🙋 explained
+  - Dependency injection: 🙋 explained
+  - DI containers: 🖐️ used
+  - Coupling and cohesion: 🖐️ used
+  - Framework agnostic approach: 🖐️ used
   - Isolation with modularity: 🙋 explained
   - Dependency injection: 🙋 explained
   - DI containers: 🖐️ used
@@ -28,7 +42,12 @@
 - Environment
   - Command line arguments: 🖐️ used
   - Node.js CLI: 🖐️ used
+  - Command line arguments: 🖐️ used
+  - Node.js CLI: 🖐️ used
   - Process-based permissions
+  - Graceful shutdown: 🖐️ used
+  - Clustering: 👂 heard
+  - Watch filesystem changes with --watch: 🖐️ used
   - Graceful shutdown: 🖐️ used
   - Clustering: 👂 heard
   - Watch filesystem changes with --watch: 🖐️ used
@@ -48,25 +67,41 @@
   - AsyncResource: 🎓 known
   - Deprecated domain API
   - Node.js single executable: 🎓 known
+  - Node.js single executable: 🎓 known
   - SharedArrayBuffer
+  - Module `node:worker_threads`: 🖐️ used
+  - Module `node:child_process`: 🖐️ used
   - Module `node:worker_threads`: 🖐️ used
   - Module `node:child_process`: 🖐️ used
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID: 👂 heard
+  - Generating crypto random UUID: 👂 heard
   - Module `node:url` vs `new URL`
+  - Module `node:assert`: 🎓 known
+  - Internationalization: 🖐️ used
+  - Blob, File, Buffer, module `node:buffer`: 🖐️ used
   - Module `node:assert`: 🎓 known
   - Internationalization: 🖐️ used
   - Blob, File, Buffer, module `node:buffer`: 🖐️ used
   - Module `node:zlib`
 - Network
   - Endpoint throttling: 🖐️ used
+  - Endpoint throttling: 🖐️ used
   - ALPN
   - SNI callback
   - SSL certificates: 🖐️ used
   - Protocol agnostic approach: 🖐️ used
   - Fetch API: 🖐️ used
+  - SSL certificates: 🖐️ used
+  - Protocol agnostic approach: 🖐️ used
+  - Fetch API: 🖐️ used
   - IncomingMessage
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🖐️ used
+  - UDP: 🖐️ used
+  - TLS: 🖐️ used
+  - Websocket: 🖐️ used
   - HTTP(S): 🖐️ used
   - TCP/SSL: 🖐️ used
   - UDP: 🖐️ used
@@ -88,8 +123,16 @@
   - noDelay
   - keep-alive: 🖐️ used
   - IP sticky sessions: 🖐️ used
+  - keep-alive: 🖐️ used
+  - IP sticky sessions: 🖐️ used
 - Technique and tools
   - Native test runner
+  - Logging: 🖐️ used
+  - Application configuring: 🖐️ used
+  - Testing: 🖐️ used
+  - CI/CD: 🖐️ used
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Logging: 🖐️ used
   - Application configuring: 🖐️ used
   - Testing: 🖐️ used
@@ -100,11 +143,19 @@
   - Back pressure
   - Buffer: 🖐️ used
   - Console: 🖐️ used
+  - Buffer: 🖐️ used
+  - Console: 🖐️ used
   - Inspector
 - Data access
   - Data access layer: 🙋 explained
   - Repository: 🙋 explained
+  - Data access layer: 🙋 explained
+  - Repository: 🙋 explained
   - Active record
+  - Query builder: 🙋 explained
+  - Object-Relational Mapping: 🙋 explained
+  - CRUD: 🙋 explained
+  - DTO: 🙋 explained
   - Query builder: 🙋 explained
   - Object-Relational Mapping: 🙋 explained
   - CRUD: 🙋 explained
@@ -116,9 +167,17 @@
   - `error.message`: 🖐️ used
   - `error.stack`: 🖐️ used
   - `Error.captureStackTrace`: 👂 heard
+  - `Error`: 🖐️ used
+  - `error.cause`: 👂 heard
+  - `error.code`: 🖐️ used
+  - `error.message`: 🖐️ used
+  - `error.stack`: 🖐️ used
+  - `Error.captureStackTrace`: 👂 heard
   - How to avoid mixins
   - Uncaught exceptions: 🖐️ used
+  - Uncaught exceptions: 🖐️ used
   - Heap dump
+  - Debugging tools: 🖐️ used
   - Debugging tools: 🖐️ used
   - Flame graph
   - Memory leaks: 👂 heard

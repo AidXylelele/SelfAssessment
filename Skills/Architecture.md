@@ -8,6 +8,13 @@
   - SOLID: 🙋 explained
   - GoF patterns: 🙋 explained
   - CQS: 🙋 explained
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 🖐️ used
+  - SOLID: 🙋 explained
+  - GoF patterns: 🙋 explained
+  - CQS: 🙋 explained
   - Leaking abstractions
   - Multiparadigm code: 🖐️ used
   - Contract programming: 🖐️ used
@@ -37,6 +44,8 @@
   - Domain-driven design (DDD)
   - Pub/sub: 🎓 known
   - Message brocker: 🎓 known
+  - Pub/sub: 🎓 known
+  - Message brocker: 🎓 known
   - Agent
   - Service locator
   - Message Queue (MQ): 🎓 known
@@ -45,6 +54,7 @@
   - E-R data modeling: 🖐️ used
   - Entity-relationship diagram: 🖐️ used
   - IDEF1X
+  - UML: 🖐️ used
   - UML: 🖐️ used
   - Work breakdown structure
   - Budget estimation: 🎓 known
@@ -60,15 +70,23 @@
   - Serverless: 🖐️ used
   - Vendor lock-in: 🖐️ used
   - Bus factor: 🖐️ used
+  - Serverless: 🖐️ used
+  - Vendor lock-in: 🖐️ used
+  - Bus factor: 🖐️ used
 - Solution architecture
+  - A software requirements specification (SRS): 🎓 known
   - A software requirements specification (SRS): 🎓 known
   - Solution visions
   - Solution capabilities
   - System design: 🖐️ used
   - Process modelling: 🎓 known
   - Data modelling: 🎓 known
+  - System design: 🖐️ used
+  - Process modelling: 🎓 known
+  - Data modelling: 🎓 known
   - Solution components
   - Risk assessment
+  - Non Functional Requirements (NFR): 🎓 known
   - Non Functional Requirements (NFR): 🎓 known
   - Clouds
   - BPMN
@@ -81,6 +99,7 @@
   - Single source of truth (SSOT): 🖐️ used
 - Enterprise architecture
   - Understanding business needs: 🖐️ used
+  - Understanding business needs: 🖐️ used
   - Enterprise strategy
   - Integration with subsystems
   - Enterprise vision
@@ -89,12 +108,16 @@
   - Enterprise service bus
   - Service-oriented architecture: 🎓 known
   - Microservices: 👂 heard
+  - Service-oriented architecture: 🎓 known
+  - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
+  - Data warehouse: 👂 heard
   - Data warehouse: 👂 heard
   - Business Intelligence
   - OLAP
   - OLTP
   - Conways Law
+  - Quality assurance: 🎓 known
   - Quality assurance: 🎓 known
   - Engineering Hygiene
